@@ -1,9 +1,8 @@
 
-URL_ROTAS_URBANAS = 'https://cnt-37b55000-5554-45f9-b947-2151a28b27c5.containerhub.tripleten-services.com?lng=pt'
-ENDERECO_DE = 'Rua Leste 2, 601'
-ENDERECO_PARA = '1300 1ª Rua'
-
-NUMERO_DO_CARTAO = '1234 5678 9100'
-CODIGO_DO_CARTAO = '1111'
-MENSAGEM_PARA_O_MOTORISTA = 'Pare no bar de sucos'
-NUMERO_DE_TELEFONE = '+1 123 123 12 12'
+URBAN_ROUTES_URL = 'https://cnt-e0af4e1c-47ef-4364-afb1-f83d12c66c18.containerhub.tripleten-services.com?lng=pt'
+ADDRESS_FROM = 'East 2nd Street, 601'
+ADDRESS_TO = '1300 1st St'
+PHONE_NUMBER = '+1 123 123 12 12'
+CARD_NUMBER = '1234 5678 9100'
+CARD_CODE = '1111'
+MESSAGE_FOR_DRIVER = 'Pare no bar de sucos'
